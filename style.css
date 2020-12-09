@@ -1,12 +1,13 @@
 .section  {
     position: fixed;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
     z-index: -1;
+    
 }
 
 .interview  {
@@ -44,5 +45,5 @@
   }
 
   .background {
-      background-color: thistle;
+    
   }
