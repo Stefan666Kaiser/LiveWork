@@ -44,6 +44,24 @@
     color: white;
   }
 
-  .background {
-    
-  }
+
+  .linksrechts {
+    font-family: monospace;
+    font-size: 200px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 90%;
+    text-decoration: none;
+
+}
+.links {
+    font-family: monospace;
+    font-size: 200px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 1%;
+    text-decoration: none;
+
+}
